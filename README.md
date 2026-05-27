@@ -1,4 +1,4 @@
-# Notification System (NS)
+# Notification System
 
 A comprehensive Java-based notification system that provides a RESTful API for managing and sending notifications across multiple platforms. The system supports SMS, email, web socket, and social media notifications with template management, user roles, and priority-based queuing.
 
